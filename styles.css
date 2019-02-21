@@ -1,0 +1,73 @@
+.top-container{
+  background-color: papayawhip;
+  position:relative;
+  padding-top: 100px;
+}
+
+.top-h1{
+
+  }
+.top-p{
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.tech{
+    font-family: 'Julius Sans One', sans-serif;
+
+
+}
+body {
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+
+
+}
+h1 {
+
+}
+.middle-container {
+  background-color: #ffcdab;
+  height: 800px;
+  width: 100%;
+
+}
+.Projects{
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  top: 350px;
+  right: 30%;
+
+}
+
+.bottom-container {
+  background-color: #171513;
+  height: 200px;
+  width: 100%;
+
+}
+
+/*.tech {
+  text-decoration: underline;
+}*/
+
+.top-cloud{
+  position: absolute;
+  right: 700px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position:absolute;
+  left: 600px;
+  bottom: 300px;
+
+}
+.mountain{
+  position:relative;
+  top: 50px;
+
+}
